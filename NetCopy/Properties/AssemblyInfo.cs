@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("NetCopy")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("EPS Financial")]
+[assembly: AssemblyCompany("Robert McMahon")]
 [assembly: AssemblyProduct("NetCopy")]
-[assembly: AssemblyCopyright("Copyright © EPS Financial 2014")]
+[assembly: AssemblyCopyright("Copyright © Robert McMahon 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
